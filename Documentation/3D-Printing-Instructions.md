@@ -1,7 +1,8 @@
 # 3D Printing Instructions
 
 The enclosure components are designed for FDM 3D printing. Follow the recommendations below to ensure proper fit, appearance, and functionality. 
-The recommended print settings were established using the 3D printers available at Hunter Industries. These parameters may require adjustment when using different printers, materials, or slicer configurations. 
+The recommended print settings were established using the 3D printers available at Hunter Industries with all models sliced using Prusa Slicer. 
+These parameters may require adjustment when using different printers, materials, or slicer configurations. 
 
 ## Materials
 
