@@ -83,7 +83,6 @@ Drawings/
 Documentation/
 │── Assembly instructions
 │── 3D printing guide
-│── Bill of Materials
 
 Images/
 │── Project renders and photographs
