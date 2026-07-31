@@ -92,29 +92,19 @@ Images/
 
 ## Assembly
 
-Assembly instructions, exploded views, and Bill of Materials are available in the **Documentation** folder.
+The enclosure is assembled using standard socket head screws and threaded heat-set inserts to provide a durable and serviceable structure. The replaceable banana connectors are internally wired to the ESD monitor using 22 AWG stranded copper wire, allowing worn connectors to be replaced without affecting the monitor itself. Detailed assembly drawings, the Bill of Materials, and manufacturing documentation are included in the Documentation folder.
 
 ---
 
 ## Results
 
-The final design successfully:
-
-- Protects the original ESD monitor enclosure.
-- Prevents direct wear of the monitor banana ports.
-- Converts high-cost failures into inexpensive connector replacements.
-- Preserves full visibility of the monitor status LEDs.
-- Simplifies maintenance and assembly.
-- Provides a professional appearance suitable for industrial workstations.
+The final design successfully protects the original ESD monitor from mechanical damage while transferring connector wear to inexpensive, replaceable banana connectors. This approach reduces maintenance costs, extends the service life of the equipment, and preserves full visibility of the workstation and wrist strap status LEDs. The enclosure also provides a cleaner, more robust appearance suitable for continuous use in a manufacturing environment.
 
 ---
 
 ## Software Used
 
-- SolidWorks
-- PrusaSlicer
-- Git
-- GitHub
+The enclosure and all engineering drawings were designed using SolidWorks, while the STL files were prepared for manufacturing with PrusaSlicer. Version control and project documentation are managed through GitHub, ensuring an organized workflow and complete project traceability.
 
 ---
 
