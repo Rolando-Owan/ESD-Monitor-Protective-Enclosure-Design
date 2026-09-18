@@ -102,6 +102,8 @@ The enclosure is assembled using standard socket head screws and threaded heat-s
 
 The final design successfully protects the original ESD monitor from mechanical damage while transferring connector wear to inexpensive, replaceable banana connectors. This approach reduces maintenance costs, extends the service life of the equipment, and preserves full visibility of the workstation and wrist strap status LEDs. The enclosure also provides a cleaner, more robust appearance suitable for continuous use in a manufacturing environment.
 
+<img width="1662" height="1247" alt="image" src="https://github.com/user-attachments/assets/23d5a0e5-2fc8-4b21-84c2-6725c5416e5e" />
+
 ---
 
 ## Software Used
