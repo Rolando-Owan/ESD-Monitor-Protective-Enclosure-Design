@@ -38,7 +38,7 @@ To address this issue, a custom protective enclosure was designed and manufactur
 
 ## Design Process
 
-The enclosure was designed in **SolidWorks** following Design for Manufacturing (DFM) and Design for Additive Manufacturing (DfAM) principles.
+The enclosure was designed in **SolidWorks** following Design for Additive Manufacturing (DfAM) principles.
 
 The assembly consists of:
 
