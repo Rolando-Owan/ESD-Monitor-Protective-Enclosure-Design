@@ -2,7 +2,7 @@
 
 A custom-designed 3D-printed enclosure developed to protect the FEITA-209-2 ESD Monitor from mechanical damage while improving maintainability through the use of replaceable banana connectors.
 
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/15995e3f-2457-418e-aa58-860b130aba8f" />
+<img width="1553" height="1013" alt="image" src="https://github.com/user-attachments/assets/a33c5377-d5dc-441e-b896-9b4a5831abce" />
 
 ---
 
