@@ -117,7 +117,6 @@ The enclosure and all engineering drawings were designed using SolidWorks, while
 - Mechanical Design
 - CAD Modeling
 - Product Improvement
-- Design for Manufacturing (DFM)
 - Design for Additive Manufacturing (DfAM)
 - Rapid Prototyping
 - FDM 3D Printing
